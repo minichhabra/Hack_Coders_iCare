@@ -12,3 +12,14 @@ All women need access to high-quality care in pregnancy, and during and after ch
 Our platform permits live chat with other moms,  establishing a deeper connection than what general social media interaction might enable, staying connected to their gynecologist, and tracking their visible symptoms, vital changes on a daily and weekly basis.
 <h3>Voice Prescription</h3>
 Helping doctors dictate his prescription to the patient while speaking to his phone or PC.
+
+
+## Instructions to run on local system
+### Main Website
+1) Download the .zip file from github
+2) Open home.html on your browser and check the website, server, data analytics etc.
+
+### Voice prescription Model
+1) Install the required dependencies => pyttsx3, os etc
+2) Open .ipynb file and run it on your local host using jupyter notebook.
+3) Click on the start button and converse with the model.
