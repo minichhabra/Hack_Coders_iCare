@@ -2,6 +2,7 @@
  “iCare'', 
 a one-stop solution to have the best experience
  and enjoy the memories of pregnancy & childbirth. 
+ ![Image](https://github.com/minichhabra/hack_coders_hackmakers/blob/main/Capture.PNG)
 <h2>Features</h2>
 <h3>CTG</h3>
 Cardiotocograms (CTGs) is a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. We have performed exploratory data analysis on the dataset which contains 2126 records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetricians into 3 classes:
