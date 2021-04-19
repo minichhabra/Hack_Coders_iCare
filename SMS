@@ -1,1 +1,18 @@
+# Download the helper library from https://www.twilio.com/docs/python/install
+import os
+from twilio.rest import Client
 
+
+# Your Account Sid and Auth Token from twilio.com/console
+# and set the environment variables. See http://twil.io/secure
+account_sid ='ACb0b63ce5e73b347dce6c006bd5e99f38'
+auth_token = '88ae976d93d997bd5c9ff3bfb435c30f'
+client = Client(account_sid, auth_token)
+
+message = client.messages.create(
+                              body='Hi there! The bill amount for your current visit is Rs.2200. Your next visit date is: 27/10/2021 PMS Hospital',
+                              from_='+17576376189',
+                              to='+919848994601'
+                          )
+
+print(message.sid)
