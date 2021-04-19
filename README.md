@@ -1,16 +1,22 @@
-# Hack Coders
- “iCare'', 
-a one-stop solution to have the best experience
- and enjoy the memories of pregnancy & childbirth. 
+# iCare
+
+A one-stop solution to have the best experience and enjoy the memories of pregnancy & childbirth. 
+ 
  ![Image](https://github.com/minichhabra/hack_coders_hackmakers/blob/main/Capture.PNG)
+ 
 <h2>Features</h2>
+
 <h3>CTG</h3>
 Cardiotocograms (CTGs) is a simple and cost accessible option to assess fetal health, allowing healthcare professionals to take action in order to prevent child and maternal mortality. We have performed exploratory data analysis on the dataset which contains 2126 records of features extracted from Cardiotocogram exams, which were then classified by three expert obstetricians into 3 classes:
-Normal, Suspect,  Pathological
+      Normal, Suspect,  Pathological
+      
 <h3>Rocket Chat</h3>
+
 All women need access to high-quality care in pregnancy, and during and after childbirth. Providing access to adequate healthcare and proper health information is challenging for midwives, nurses, nutritionists, educators working in low-income countries and rural regions.
-Our platform permits live chat with other moms,  establishing a deeper connection than what general social media interaction might enable, staying connected to their gynecologist, and tracking their visible symptoms, vital changes on a daily and weekly basis.
+    Our platform permits live chat with other moms,  establishing a deeper connection than what general social media interaction might enable, staying connected to their gynecologist, and tracking their visible symptoms, <br>vital changes on a daily and weekly basis.
+    
 <h3>Voice Prescription</h3>
+
 Helping doctors dictate his prescription to the patient while speaking to his phone or PC.
 
 
@@ -23,3 +29,8 @@ Helping doctors dictate his prescription to the patient while speaking to his ph
 1) Install the required dependencies => pyttsx3, os etc
 2) Open .ipynb file and run it on your local host using jupyter notebook.
 3) Click on the start button and converse with the model.
+
+# Team Members
+1)Mini Shail Chhabra<br>
+2)Praseedha Praveen Kalbhavi<br>
+3)Satvika Koti
